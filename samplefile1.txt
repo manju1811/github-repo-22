@@ -1,2 +1,2 @@
-i
+sample file
 this is first line of sample file
