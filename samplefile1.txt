@@ -1,2 +1,4 @@
 sample file
 this is first line of sample file
+this is second line of samplefile1
+this is third line of samplefile1
